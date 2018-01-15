@@ -1,6 +1,6 @@
 [
   {
-    "content": "Community",
+    "content": "",
     "isDropdown": true,
     "links": [
       {
@@ -36,7 +36,7 @@
     ]
   },
   {
-    "content": "Donate",
+    "content": "",
     "link": "https://www.freecodecamp.org/donate",
     "target": "_blank"
   }

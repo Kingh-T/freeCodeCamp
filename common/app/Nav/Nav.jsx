@@ -32,7 +32,7 @@ import { isSignedInSelector, signInLoadingSelector } from '../redux';
 import { panesSelector } from '../Panes/redux';
 
 
-const fCClogo = 'https://s3.amazonaws.com/freecodecamp/freecodecamp_logo.svg';
+const fCClogo = 'https://i.pinimg.com/736x/9a/d4/87/9ad487da54403f12daae1ccca8caec7c--education-logo-portrait-poses.jpg';
 // TODO @freecodecamp-team: place this glyph in S3 like above, PR in /assets
 const fCCglyph = 'https://raw.githubusercontent.com/freeCodeCamp/assets/' +
   '3b9cafc312802199ebba8b31fb1ed9b466a3efbb/assets/logos/FFCFire.png';
