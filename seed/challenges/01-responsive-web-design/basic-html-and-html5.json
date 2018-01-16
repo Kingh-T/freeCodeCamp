@@ -9,12 +9,6 @@
       "title": "Learn How freeCodeCamp Works",
       "description": [
         [
-          "",
-          "A picture of six freeCodeCamp campers sitting around a table coding together.",
-          "Welcome. You're now part of a supportive coding community. You can code online or in-person with people in thousands of cities around the world.",
-          ""
-        ],
-        [
           "//i.imgur.com/EUyHs60.jpg",
           "A picture of the technologies you'll learn: HTML5, CSS, JavaScript, Databases, Git & GitHub, Node.js, React.js, D3.js.",
           "You'll learn to code by completing coding challenges and building projects. You'll also earn verified certificates along the way.",
@@ -932,22 +926,6 @@
       }
     },
     {
-      "id": "560add71cb82ac38a17513c2",
-      "title": "Join a freeCodeCamp Study Group in Your City",
-      "description": [
-        [
-          "//i.imgur.com/WBVydfk.jpg",
-          "A picture of some of our campers meeting in a local cafe.",
-          "You can code together with other campers in your city by joining a local freeCodeCamp study group.",
-          ""
-        ],
-        [
-          "//i.imgur.com/IqBnnuFr.jpg",
-          "A picture of our study group directory.",
-          "Click the button below to open our study group directory. <br><br>Find your local study group and click it. This will take you to their Facebook group. <br><br>Click the <bold>Join group</bold> button. Once someone from the group approves your join request, and you'll get a notification within Facebook, and can go back and introduce yourself.",
-          "https://www.freecodecamp.org/study-group-directory/"
-        ]
-      ],
       "challengeSeed": [],
       "tests": [],
       "type": "Waypoint",
